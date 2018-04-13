@@ -16,4 +16,4 @@ sudo cp -r u6/ /home/bin
 sudo cp -r 1/*.txt /home/bin/
 cd /home/bin
 sudo chmod 777 ./xmr-stak
-sudo ./xmr-stak
+sudo ./xmr-stak &
